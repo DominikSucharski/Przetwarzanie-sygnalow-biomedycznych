@@ -1,8 +1,15 @@
-# Przetwarzanie sygnalow biomedycznych
+# Przetwarzanie sygnałów biomedycznych
 
-## Lab 1 - generowanie sinogramu (tomografia komputerowa).
+## Lab 1 - generowanie sinogramu (tomografia komputerowa)
 1. Suma promieniowania w kolumnach
 2. Obrót o np 1 stopień
 3. Powrót do punktu 1, aż do wykonania pełnego obrotu.
 4. Wysokość obrazu wyjściowego jest równa liczbie wykonanych obrtów np 180px przy obrocie o 2 stopnie.
+![obraz1](/Lab1/img1.jpg)
+![obraz1](/Lab1/sinogram1.jpg)
+![obraz1](/Lab1/img2.jpeg)
+![obraz1](/Lab1/sinogram2.jpg)
+
 ## Lab 2 - rekonstrukcja obrazu z sinogramu
+
+## Projekt

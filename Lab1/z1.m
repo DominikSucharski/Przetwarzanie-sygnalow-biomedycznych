@@ -12,7 +12,7 @@ raw_img = imread(img_name);
 img_info = imfinfo(img_name);  % pobranie info o obrazie
 
 sinogram_width = ceil(img_info.Width*sqrt(2));  % œrodek sinogramu
-sinogram = zeros(180, sinogram_width);  % 360 wierszy
+sinogram = zeros(180, sinogram_width);  % 180 wierszy
 
 for angle = 0:179
   img_r = imrotate(raw_img, angle);  % obracanie obrazu
