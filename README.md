@@ -10,4 +10,10 @@
 
 ## Lab 2 - rekonstrukcja obrazu z sinogramu
 
+
+## Lab 3 - USG
+
+## Lab 4 - Pulsooksydometr
+Oświetlanie światłem zielonym lub czerwonym i na tej podstawie pomiar ilości tlenu we krwi
+
 ## Projekt
